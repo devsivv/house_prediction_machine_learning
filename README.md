@@ -26,6 +26,8 @@ Every expert was once a beginner, and this project represents my first step into
 **GitHub Repository:**
 https://github.com/devsivv/house_prediction_machine_learning
 
+**Live Link:**
+http://housepricepredictiondevsivv.streamlit.app/
 ---
 
 ## 📌 Project Overview
